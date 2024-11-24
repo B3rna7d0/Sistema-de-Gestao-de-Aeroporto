@@ -1,0 +1,10 @@
+1;São Paulo;Rio de Janeiro;25/11/2024 14:00:00;500;10
+2;Florianópolis;Curitiba;25/11/2024 16:00:00;300;4
+3;Brasília;Salvador;25/11/2024 18:30:00;600;20
+4;Porto Alegre;Recife;26/11/2024 10:00:00;700;8
+5;Manaus;Belo Horizonte;26/11/2024 12:45:00;400;15
+6;Rio de Janeiro;Fortaleza;26/11/2024 21:15:00;450;12
+7;Curitiba;São Paulo;27/11/2024 07:00:00;350;6
+8;Salvador;Porto Alegre;27/11/2024 09:00:00;500;10
+9;Recife;Manaus;27/11/2024 14:30:00;600;25
+10;Fortaleza;Brasília;28/11/2024 11:45:00;550;17

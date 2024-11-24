@@ -1,0 +1,17 @@
+1;1;João Silva
+2;2;Maria Oliveira
+3;3;Carlos Santos
+4;4;Ana Paula
+5;5;Lucas Martins
+6;6;Mariana Lima
+7;7;Fernanda Costa
+8;8;Rafael Pereira
+9;9;Patrícia Souza
+10;10;Bruno Alves
+11;1;Thiago Rocha
+12;2;Juliana Gomes
+13;3;Cláudia Mendes
+14;4;Ricardo Lopes
+15;5;Sofia Almeida
+16;10;Rodrigo Abelardo
+17;2;Alvaro Marques

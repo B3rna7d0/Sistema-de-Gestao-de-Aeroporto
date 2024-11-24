@@ -1,0 +1,14 @@
+C:\Users\Be\Projeto Andre\bin\Debug\net8.0\Projeto Andre.exe
+C:\Users\Be\Projeto Andre\bin\Debug\net8.0\Projeto Andre.deps.json
+C:\Users\Be\Projeto Andre\bin\Debug\net8.0\Projeto Andre.runtimeconfig.json
+C:\Users\Be\Projeto Andre\bin\Debug\net8.0\Projeto Andre.dll
+C:\Users\Be\Projeto Andre\bin\Debug\net8.0\Projeto Andre.pdb
+C:\Users\Be\Projeto Andre\obj\Debug\net8.0\Projeto Andre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Be\Projeto Andre\obj\Debug\net8.0\Projeto Andre.AssemblyInfoInputs.cache
+C:\Users\Be\Projeto Andre\obj\Debug\net8.0\Projeto Andre.AssemblyInfo.cs
+C:\Users\Be\Projeto Andre\obj\Debug\net8.0\Projeto Andre.csproj.CoreCompileInputs.cache
+C:\Users\Be\Projeto Andre\obj\Debug\net8.0\Projeto Andre.dll
+C:\Users\Be\Projeto Andre\obj\Debug\net8.0\refint\Projeto Andre.dll
+C:\Users\Be\Projeto Andre\obj\Debug\net8.0\Projeto Andre.pdb
+C:\Users\Be\Projeto Andre\obj\Debug\net8.0\Projeto Andre.genruntimeconfig.cache
+C:\Users\Be\Projeto Andre\obj\Debug\net8.0\ref\Projeto Andre.dll
